@@ -1,5 +1,5 @@
 class Hpr < Formula
-  VERSION = '0.5.0'.freeze
+  VERSION = '0.6.2'.freeze
 
   version VERSION
   desc 'Mirror git repositories to self-host gitlab services.'
